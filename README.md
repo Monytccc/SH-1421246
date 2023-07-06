@@ -1,4 +1,4 @@
-# Online Terminal
+# Online Terminal by Monytccc
 
 The Online Terminal is a web-based application that provides users with a virtual command line interface (CLI) experience. It allows users to execute various commands and interact with a virtual environment directly from their web browser without the need for local installations.
 
